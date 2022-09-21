@@ -1,0 +1,14 @@
+{
+    "name": "maree/moyasar",
+    "description": "simple example to explain how to use moyasar",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohamed maree",
+            "email": "m7mdmaree26@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
